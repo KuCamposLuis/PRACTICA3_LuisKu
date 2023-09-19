@@ -1,0 +1,32 @@
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px; 
+    border: 2px solid #ccc; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+    border-radius: 30px;
+    text-align: center;
+}
+
+
+h1 {
+    text-align: center; 
+}
+
+
+.Btn{
+
+    display: block; 
+    margin: 15px auto;
+    
+}
+.box{
+    border-radius: 10px;
+    margin: 15px auto;
+    text-align: center;
+}
+
+.formulario {
+    margin-top: 20px;
+    text-align: left; 
+}
